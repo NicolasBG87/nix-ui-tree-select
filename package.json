@@ -1,6 +1,6 @@
 {
   "name": "nix-ui-tree-select",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cascading tagfield - React Component",
   "author": "NicolasBG87",
   "license": "MIT",
